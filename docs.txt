@@ -1,0 +1,8 @@
+git config --global user.name '...' --> Initialize user name 
+git config --global user.email '...' --> Initialize user email
+git init --> Initialize a local repo 
+git status: check file status in folder
+git commit: action to write and save file change in repo 
+staging area: 
+git add <file>: push file into staging area 
+git commit -m "msg": save file to committed 
