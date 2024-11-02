@@ -10,3 +10,10 @@ git log: check if file is updated to commit or not
 git add .: push all files into staging area
 to esc from git log: q 
 connect local repo to an existing repo on github: git remote add origin <link>
+
+branch: nhánh, được sử dụng để làm các công việc của riêng mình trong 1 dự án lớn mà không ảnh hưởng tới công việc của người khác 
+create a new branch: git checkout-b <name> 
+git restore <file>: out from staging area and back working folder 
+
+git branch -M main 
+git push -u origin main
