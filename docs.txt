@@ -17,6 +17,7 @@ back to main or change to wanted branch: git checkout main
 git restore <file>: out from staging area and back working folder 
 git merge: merge branch to main branch
 checkout a commit: git checkout [hash] --> chuyển về đúng trạng thái tại đúng commit đó 
-
+conflict process: khi local và remote có sự khác nhau thì phải git pull
+.gitingnore: tạo file này và trong file sẽ bỏ qua những thư mục trong local repo và push lên remote repo 
 git branch -M main 
 git push -u origin main
