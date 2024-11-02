@@ -9,3 +9,4 @@ git commit -m "msg": save file to committed
 git log: check if file is updated to commit or not 
 git add .: push all files into staging area
 to esc from git log: q 
+connect local repo to an existing repo on github: git remote add origin <link>
