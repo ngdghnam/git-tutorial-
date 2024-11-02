@@ -13,6 +13,7 @@ connect local repo to an existing repo on github: git remote add origin <link>
 
 branch: nhánh, được sử dụng để làm các công việc của riêng mình trong 1 dự án lớn mà không ảnh hưởng tới công việc của người khác 
 create a new branch: git checkout-b <name> 
+back to main or change to wanted branch: git checkout main 
 git restore <file>: out from staging area and back working folder 
 
 git branch -M main 
