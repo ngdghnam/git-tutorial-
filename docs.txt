@@ -15,6 +15,8 @@ branch: nhánh, được sử dụng để làm các công việc của riêng m
 create a new branch: git checkout-b <name> 
 back to main or change to wanted branch: git checkout main 
 git restore <file>: out from staging area and back working folder 
+git merge: merge branch to main branch
+checkout a commit: git checkout [hash] --> chuyển về đúng trạng thái tại đúng commit đó 
 
 git branch -M main 
 git push -u origin main
